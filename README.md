@@ -1,20 +1,21 @@
 # 스벨트+타입스크립트+비트
-# Svelte + TS + Vite
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+빗에서 스벨트와 타입스크립트로 개발하기 위한 템플릿입니다.
 
 ## 추천 IDE 설정
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+[비주얼 스튜디오 코드](https://code.visualstudio.com/) + [스벨트](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
 
-## Need an official Svelte framework?
+## 공식 스벨트 프레임워이 필요하나요?
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+[스벨트킷](https://github.com/sveltejs/kit#readme)을 확인하세요.
+스벨트킷도 빗(vite)으로 무장된 것 입니다. 
+Deploy anywhere with its serverless-first approach and adapt to various platforms, 
+with out of the box support for TypeScript, SCSS, and Less, 
+and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
 
-## Technical considerations
+## 기술적인 고려사항
 
-**Why use this over SvelteKit?**
 **왜 스벨트킷으로 하지 않았는가?**
 
 - It brings its own routing solution which might not be preferable for some users.
