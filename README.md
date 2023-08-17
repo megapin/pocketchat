@@ -1,3 +1,4 @@
+# 스벨트+타입스크립트+비트
 # Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
