@@ -10,9 +10,8 @@
 
 [스벨트킷](https://github.com/sveltejs/kit#readme)을 확인하세요.
 스벨트킷도 빗(vite)으로 무장된 것 입니다. 
-Deploy anywhere with its serverless-first approach and adapt to various platforms, 
-with out of the box support for TypeScript, SCSS, and Less, 
-and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+서버리스 우선 방식으로 어느 곳에나 배포하고 다양한 플랫폼에 적용할 수 있습니다.
+타입스크립트, SCSS, 혹은 LESS, mdsvex, GraphQL, PostCSS, Tailwind 및 그 외 기능들을 쉽게 추가하고 사용가능합니다.
 
 ## 기술적인 고려사항
 
