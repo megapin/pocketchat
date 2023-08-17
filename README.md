@@ -17,8 +17,8 @@
 
 **왜 스벨트킷으로 하지 않았는가?**
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+- 자체 라우팅 구조를 가지고 있어 혹자들은 선호하지 않을 수 있다.
+- 빗을 이용한 처움이자 첫번째 프레임워크이지 빗 앱(Vite app)이 아니다.
 
 This template contains as little as possible to get started with Vite + TypeScript + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
 
